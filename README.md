@@ -3,7 +3,7 @@ front-end test magang bukitvista
 
 Isomorphic: aplikasi untuk melihat detail booking tempat menggunakan booking_code yang telah terdaftar dalam database.
 
-Note: Install Node_module terlebih dahulu sebelum mencoba aplikasi
+Note: Install Node_module dan axios terlebih dahulu sebelum mencoba aplikasi
 
 to-do list complete
 1. remove unnecessary functions dan sidebar menu (menghapus function yang tidak digunakan pada App.js di folder container, menghapus option Sidebar di component yang tidak dibutuhkan dan menggunakan function sidebar di folder customApp) 
